@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blush: #f9d5d3; /* soft pink */
+  --color-lavender: #e6d9f7; /* gentle purple */
+  --color-peach: #ffd6a5; /* warm pastel */
+  --color-mint: #d6f5e3; /* calming green */
+  --color-rose: #f28ca3; /* accent pink */
+  --font-sans: "Poppins", ui-sans-serif, system-ui;
+  --font-serif: "Playfair Display", ui-serif, Georgia;
+  --radius-xl: 1rem; /* pill-shaped buttons */
+  --shadow-soft: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
